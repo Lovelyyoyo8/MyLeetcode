@@ -13,4 +13,3 @@ class Solution(object):
                 replace = False
        
         return s == ""
-
