@@ -30,5 +30,3 @@ class MyStack(object):
         """
         return len(self.q) == 0
 
-
-
