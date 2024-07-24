@@ -24,4 +24,3 @@ class Solution(object):
         result = '1' + result
 
     return result
-
