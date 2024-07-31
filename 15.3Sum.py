@@ -27,4 +27,3 @@ class Solution(object):
                     while l < r and nums[r] == nums[r + 1]:
                         r -= 1
         return res
-
