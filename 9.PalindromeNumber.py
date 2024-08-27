@@ -17,5 +17,3 @@ class Solution(object):
 
         
         return x == reversed_half or x == reversed_half // 10
-
-
