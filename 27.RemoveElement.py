@@ -9,5 +9,3 @@ class Solution(object):
         
 
         return next_pos
-
-
