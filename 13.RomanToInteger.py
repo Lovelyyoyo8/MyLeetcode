@@ -15,3 +15,6 @@ class Solution(object):
                 res += roman[s[i]]
 
         return res
+
+
+#So it's just add every letter's value together. And put subtract and final number aside. 
