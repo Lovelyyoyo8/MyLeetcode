@@ -18,5 +18,3 @@ class Solution:
             right -= 1
 
         return "".join(s)  # Convert list back to string
-
-        
