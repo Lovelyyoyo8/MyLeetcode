@@ -20,9 +20,10 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
+# It takes 1808ms.
 
 
-Hashing Map: 
+# Hashing Map, only takes less than 22ms:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         num_map = {}  # Dictionary to store the number and its index
