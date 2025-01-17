@@ -18,4 +18,4 @@ class Solution:
     
         return True
 
-#similar to 205. Check length first; use zip to pair up; use "word" not "w", for clarity.
+#similar to 205. Check length first; use zip to pair up; use "word" not "w", for clarify.
