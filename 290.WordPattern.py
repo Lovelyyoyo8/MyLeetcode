@@ -17,3 +17,5 @@ class Solution:
             word_to_char[word] = char
     
         return True
+
+#similar to 205, check length first, use zip to pair up
