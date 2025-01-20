@@ -21,4 +21,4 @@ class Solution:
             n = n // 10
         return output
       
-#use % to take apart the first and the second digit. Use visit to make a hash set, 
+#use % to take apart the first and the second digit. Use visit to make a hash set.
