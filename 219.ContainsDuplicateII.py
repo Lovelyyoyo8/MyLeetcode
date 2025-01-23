@@ -12,3 +12,4 @@ class Solution:
             window.add(nums[R])
         return False
 
+#use sliding window, not hashset. Start from L = 0, no need to R = 0, but use if R - L loop. 
