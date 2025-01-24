@@ -47,5 +47,3 @@ class Solution:
             else:
                 nums1[z] = nums2[y]
                 y -= 1
-
-                
