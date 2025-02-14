@@ -6,6 +6,4 @@ class Solution(object):
             if nums[i] != val:
                 nums[next_pos] = nums[i]
                 next_pos += 1
-        
-
         return next_pos
