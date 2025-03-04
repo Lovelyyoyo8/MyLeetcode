@@ -13,3 +13,4 @@ class Solution(object):
             count += (1 if num == maj else -1)
 
         return maj
+
