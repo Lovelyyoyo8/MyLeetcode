@@ -12,7 +12,7 @@ class Solution(object):
                 profit = prices[r] - prices[l]
                 maxP = max(maxP, profit)
             else:
-                l=r
-            r+=1
+                l = r
+            r += 1
         return maxP
 
