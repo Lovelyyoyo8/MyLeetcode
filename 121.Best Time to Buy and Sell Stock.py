@@ -1,3 +1,4 @@
+#in Python2
 class Solution(object):
     def maxProfit(self, prices):
         """
@@ -16,3 +17,4 @@ class Solution(object):
             r += 1
         return maxP
 
+#In Python 3
