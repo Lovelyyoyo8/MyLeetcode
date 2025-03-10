@@ -1,4 +1,4 @@
-#in Python2
+#In Python2
 class Solution(object):
     def maxProfit(self, prices):
         """
