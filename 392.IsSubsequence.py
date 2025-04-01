@@ -6,3 +6,5 @@ class Solution:
                 i += 1
             j += 1
         return i == len(s)
+
+#two pointer, remember i += 1, next line j += 1
