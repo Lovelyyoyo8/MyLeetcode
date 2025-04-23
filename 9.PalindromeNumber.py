@@ -17,3 +17,9 @@ class Solution(object):
 
         
         return x == reversed_half or x == reversed_half // 10
+
+#In Python3, here it is much simplier way:
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        str_x = str(x)
+        return str_x == str_x[::-1]
