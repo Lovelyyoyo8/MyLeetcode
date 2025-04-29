@@ -15,4 +15,3 @@ class Solution:
 
         # If target not found, left is the insertion point
         return left
-
