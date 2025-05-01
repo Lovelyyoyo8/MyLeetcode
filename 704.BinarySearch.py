@@ -35,3 +35,20 @@ class Solution:
                 right = mid - 1  
 
         return -1  # Target not found
+
+#So this is the template for binary search: 
+        left = 0
+        right = len(nums) - 1  #two pointer
+
+        while left <= right:
+            mid = (left + right) // 2   #from the middle
+            if nums[mid] == target:
+                return mid  
+            elif nums[mid] < target:
+                left = mid + 1  #search right side
+            else:
+                right = mid - 1  #search left side
+
+        return -1  # Target not found
+
+
