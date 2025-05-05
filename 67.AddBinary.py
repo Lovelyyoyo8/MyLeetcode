@@ -25,6 +25,7 @@ class Solution(object):
 
         return result
 
+
 #In Python3:
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
