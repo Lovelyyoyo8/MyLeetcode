@@ -51,6 +51,7 @@ class Solution:
         # Reverse to get correct order
         return ''.join(reversed(result))
 
+
 #If not convert to integer:
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
