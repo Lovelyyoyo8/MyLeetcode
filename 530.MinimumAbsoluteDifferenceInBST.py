@@ -36,3 +36,4 @@ class Solution:
         # Return the minimum difference found
         return self.min_diff
 
+#this is so long, why it is in easy level...
