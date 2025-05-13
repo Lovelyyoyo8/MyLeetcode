@@ -35,5 +35,5 @@ class Solution:
         left_depth = self.maxDepth(root.left)
         right_depth = self.maxDepth(root.right)
         
-        # Return the greater of the two, plus one for the current node
+        # Compare two, plus one for the current node
         return max(left_depth, right_depth) + 1
