@@ -15,6 +15,8 @@ class Solution(object):
 
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
 
+
+
 #In Python3, similar:
 # Definition for a binary tree node.
 # class TreeNode:
