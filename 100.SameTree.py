@@ -19,6 +19,8 @@ class Solution(object):
         return (self.isSameTree(p.left, q.left) and 
                 self.isSameTree(p.right, q.right))
 
+
+
 #In Python3,
 # Definition for a binary tree node.
 # class TreeNode:
