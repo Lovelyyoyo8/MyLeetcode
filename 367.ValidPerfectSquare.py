@@ -15,4 +15,3 @@ class Solution:
                 right = mid - 1  # Move left to find smaller square
                 
         return False  # No perfect square found
-
