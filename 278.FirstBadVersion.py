@@ -25,7 +25,8 @@ class Solution(object):
             return end
         
         return -1
-        
+
+
 #In Python3, which is shorter
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
