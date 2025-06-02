@@ -16,4 +16,3 @@ class Solution:
         # After loop, left is the index of the smallest letter > target
         # If not found, wrap around using modulo
         return letters[left % len(letters)]
-
