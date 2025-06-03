@@ -73,4 +73,3 @@ class Solution:
             j -= 1
 
         return ''.join(reversed(result))
-
