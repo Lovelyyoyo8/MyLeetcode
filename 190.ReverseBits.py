@@ -19,4 +19,3 @@ class Solution:
             result = (result << 1) | bit  # Shift result left and add the bit
             n >>= 1                  # Shift n right to process next bit
         return result
-
