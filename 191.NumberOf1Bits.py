@@ -10,6 +10,7 @@ class Solution(object):
             res += 1
         return res
 
+
 #In Python3, Brian Kernighan’s Algorithm (Efficient)
 class Solution:
     def hammingWeight(self, n: int) -> int:
