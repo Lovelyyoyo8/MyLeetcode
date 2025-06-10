@@ -19,7 +19,7 @@ class Solution:
             count += 1
         return count
 
-#
+#Bit-by-bit shift (Simple)
 class Solution:
     def hammingWeight(self, n: int) -> int:
         count = 0
