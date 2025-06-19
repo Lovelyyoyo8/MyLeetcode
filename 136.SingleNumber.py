@@ -1,3 +1,5 @@
+#XOR 
+
 from typing import List
 
 class Solution:
@@ -6,4 +8,3 @@ class Solution:
         for num in nums:
             result ^= num  # XOR each number
         return result
-
