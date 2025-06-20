@@ -7,4 +7,3 @@ class Solution:
         for char in t:
             result ^= ord(char)
         return chr(result)
-
