@@ -37,6 +37,7 @@ class Solution:
 
         return -1  # Target not found
 
+        
 #So this is the template for binary search: 
         left = 0
         right = len(nums) - 1  #two pointer
