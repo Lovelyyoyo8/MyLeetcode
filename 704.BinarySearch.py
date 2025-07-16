@@ -17,6 +17,7 @@ class Solution(object):
                 return m
         return -1
 
+
 #In Python3: 
 from typing import List
 
