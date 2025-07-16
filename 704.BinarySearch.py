@@ -52,5 +52,3 @@ class Solution:
                 right = mid - 1  #search left side
 
         return -1  # Target not found
-
-
